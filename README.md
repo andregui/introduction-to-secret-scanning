@@ -2,7 +2,7 @@
 
 # Introdução à varredura de segredos.
 
-_O GitHub verifica repositórios em busca de tipos conhecidos de segredos, como chaves de API e tokens de autenticação, para prevenir o uso fraudulento de segredos que foram comprometidos acidentalmente. Neste curso do GitHub, você aprenderá como habilitar a varredura de segredos para identificar segredos e evitar que sejam comprometidos em seu repositório._
+_O GitHub verifica repositórios em busca de tipos conhecidos de segredos, como chaves de API e tokens de autenticação, para prevenir o uso fraudulento de segredos que foram comprometidos acidentalmente. Neste curso do GitHub, você aprenderá como habilitar a varredura de segredos para identificar segredos e evitar que sejam comprometidos em seu repositório.
 
 </header>
 
